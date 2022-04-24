@@ -6,3 +6,5 @@ Overview: In this project I Chose US Apparel product reviews from Amazon. The go
 
 Results: The first step was to extract the dataset from an AWS S3 using PySpark in order to transform it and load it to AWS again. There, I basically divided the whole dataframe into 4 smaller dataframes for better analysis. These dataframes were then loaded to AWS RDS using a a connection from PySpark to PostgreSQL.
 
+![Step 1](https://user-images.githubusercontent.com/95897182/164992087-bf32145a-1106-43d6-aeb9-576a8aa8bbcf.png)
+
