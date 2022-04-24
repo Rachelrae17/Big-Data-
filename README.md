@@ -10,5 +10,10 @@ Results: The first step was to extract the dataset from an AWS S3 using PySpark 
 
 ![Step 2](https://user-images.githubusercontent.com/95897182/164992144-f058a9c9-2cb6-432b-a8c3-d30801ec9e48.png) 
 
+![Step 3](https://user-images.githubusercontent.com/95897182/164992236-3177d06c-5ad0-48c7-92ef-ff1ae22a2c5f.png)
+
+
+
+
 
 
