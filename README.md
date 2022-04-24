@@ -18,6 +18,11 @@ Results: The first step was to extract the dataset from an AWS S3 using PySpark 
 
 <img width="743" alt="Query 2" src="https://user-images.githubusercontent.com/95897182/164993524-2ba02a37-7d10-4993-804a-e58bd311219c.png">
 
+<img width="741" alt="Query 3" src="https://user-images.githubusercontent.com/95897182/164993580-9091c9b3-baf8-4e5f-ac41-931478d0d3b1.png">
+
+
+
+
 
 
 
