@@ -8,3 +8,7 @@ Results: The first step was to extract the dataset from an AWS S3 using PySpark 
 
 ![Step 1](https://user-images.githubusercontent.com/95897182/164992087-bf32145a-1106-43d6-aeb9-576a8aa8bbcf.png)
 
+![Step 2](https://user-images.githubusercontent.com/95897182/164992144-f058a9c9-2cb6-432b-a8c3-d30801ec9e48.png) 
+
+
+
